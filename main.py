@@ -10,22 +10,6 @@ import plotly.express as px
 
 import re
 
-# FeedBack analyser
-
-
-
-# import
-
-import streamlit as st
-
-import time
-
-import pandas as pd
-
-import plotly.express as px
-
-import re
-
 
 
 # Step -1: Page_setup with CSS
@@ -835,6 +819,3 @@ elif option == "Analytics":
                 </div>
 
             ''', unsafe_allow_html=True)
-
-z
-
